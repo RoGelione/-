@@ -1,0 +1,73 @@
+@media screen and (max-width: 600px) {
+    body {
+      height: 946px;
+    }
+  }
+*{	
+	text-decoration: none;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+body{
+	float: left;
+	font-family:"FangSong_GB2312";
+	min-width:1000px;
+	height: 1995px;
+}
+.cut_one{
+	float: left;
+	width:99.9%;
+	border: 1px solid saddlebrown;
+}
+.cut_two{
+	float: left;
+	width:99.9%;
+	border: 1px solid gainsboro;
+}
+.cut_three{
+	float: left;
+	margin: 0 auto;
+	width:100%;
+	border: 1px dashed gainsboro;
+}
+header{
+	float: left;
+	width:100%;
+	height: 4.8%;/*97px*/
+}
+nav{
+	float: left;
+	width:100%;
+	height:2.4%;/*45px*/
+}
+#carousel_one{
+	float: left;
+	height: 22.5%;
+	width:100%;
+}
+#content{
+	float: left;
+	width:100%;
+	height:33.5%;/*668px*/
+	background: url(../img/内容背景.png);
+	background-size: 100%;
+}
+#carousel_two{
+	float: left;
+	width: 100%;
+	height: 19%;/*%378px*/
+	background: url(../img/星空3_12.png);
+}
+#f_link{
+	float: left;
+	margin-left: 18.6%;
+	width: 63%;
+	height: 11.3%;	/*224px*/
+}
+#f_info{
+	float: left;
+	width: 100%;
+	height: 6.5%;	/*126px*/
+	background: steelblue;
+}

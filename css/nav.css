@@ -1,0 +1,23 @@
+#O_list{	
+	width: 57%;
+	height: 100%;
+	margin:0 auto;
+
+}
+.options{
+	float: left;
+	width: 14.15%;
+	height: 100%;
+
+	margin-left: 0.1%;
+}
+.op{
+	float: left;
+	text-align: center;
+	color: sienna;
+	font-size: 13px;
+	font-weight:600;
+	width: 100%;
+	height: 50%;
+}
+

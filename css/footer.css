@@ -1,0 +1,18 @@
+#erweima{
+	float: left;
+	width: 180px;
+	height: 180px;
+	margin-left:50px;
+	margin-top: 20px;
+	background: url(../img/erweima.png);
+	background-size: 100%;
+}
+.phone{
+	float: left;
+	margin-top: 50px;
+	color: silver;
+}
+.address{
+	float: left;
+	margin-top: 20px;color: silver;
+}

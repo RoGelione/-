@@ -1,0 +1,209 @@
+#specific{
+	float: left;
+	height: 100%;
+	margin-left: 18.5%;
+	width: 63%;
+}
+#con_top{
+	float: left;
+	width: 100%;/*850px*/		
+	height:49%;/*327px*/
+}
+#con_bottom{
+	float: left;
+	width: 100%;	
+	height:50.9%;/*339px*/
+}
+#profiles{
+	float: left;
+	height: 100%;
+	width: 12.8%;
+}
+#article_one{
+	float: left;
+	width: 41%;/*350px*/
+	height: 100%;
+}
+.text_style{
+	/*width: 80%;*/
+	margin-top: 10%;
+	margin-left: 25%;
+}
+.text_style span:first-child,.com_title span:first-child{
+	font-family: "黑体";
+	font-size: 20px;
+	color: saddlebrown;
+}
+.text_style span:nth-child(2),.com_title span:nth-child(2){
+	margin-left: 1.2em;
+	font-size: 14px;
+	color: gray;
+}
+.sec{
+	float: left;
+	width: 100%;
+	height: 21.4%;
+}
+.month{
+	float: left;
+	width:14.5%;/*50px*/
+	height: 100%;
+	
+}
+.arc_top{
+	margin-top: 18%;
+	width: 100%;
+	height: 35.7%;
+	border-radius: 45px 45px 0 0 ;
+	text-align: center;
+	color: white;
+	background: saddlebrown;
+}
+.arc_bottom{
+	width: 100%;
+	height: 35.7%;
+	border-radius: 0 0 45px 45px;
+	text-align: center;
+	color: black;
+	border-bottom: 1px solid saddlebrown;
+	background: white;
+}
+.month span{
+	font-size: 0.75em;
+	height: 100%;
+}
+.sec_con{
+	float: left;
+	margin-left: 8%;
+	margin-top: 2%;
+	width:77.5%;
+	height: 100%;
+}
+.sec_con h5{
+	color: saddlebrown;
+}
+.sec_con span{
+	font-size: 0.8em;
+}
+#article_con{
+	float: left;
+	width: 59%;
+	height: 100%;	
+}
+#article_con img{
+	margin-left: 60%;
+}
+.more_jianjie{
+	text-align: center;
+	color: saddlebrown;
+}
+.top_image{
+	float: right;
+	width: 66%;
+	height: 52%;
+	
+}
+.new_con{
+	float: left;
+	width: 100%;
+	height: 48%;
+	
+}
+.new_con p {
+	text-indent: 2em;
+}
+.com_title{
+	float: left;
+	width: 100%;
+	height: 25%;
+}
+.com_profile{
+	width: 30%;
+	margin: 4% auto;
+}
+#con_bottom p{
+	float: left;
+	width: 75%;
+	margin-left: 13.8%;
+}
+.daozi{
+	/*position: relative;
+	left:5%;*/
+	float: left;
+	padding-top:70px ;	
+}
+.kafei{
+	/*position: relative;
+	right:0%;
+	top: 35%;*/
+	float: left;
+	margin-left: 20px;
+}
+.zhuoyi{
+	/*position:relative;
+	top:18%;
+	left: 28%;*/
+	float: right;	
+	
+}
+.kfbei{
+	/*position:relative;
+	top:18%;
+	left: 32%;*/
+	float: right;	
+	
+}
+.kongbai_hidden{
+	float: right;
+	height: 80%;
+	width: 5%;
+	
+}
+.bottom_hidden{
+	float: right;
+	width: 100%;
+	height: 20%;
+	background: saddlebrown;
+}
+.rect,.rect2{	
+	text-align: center;
+	margin-top: 12%;
+	width:3em;
+	height:3em;
+	margin-left: 35%;
+	border-radius: 15px;
+	font-size: 0.75em;
+	font-family: "黑体";
+	background: saddlebrown;
+	transform: rotate(15deg);
+}
+.rect p,.rect2 p{
+	transform: rotate(-15deg);
+}
+.rect{
+	line-height:2.8em;
+	color: beige;
+}
+.rect2{	
+	color: yellow;	
+	background: sandybrown;
+}
+.rect3 img{
+	margin-left: 20%;
+	margin-top: 20%;
+}
+.test{
+	float: left;
+	text-indent: 2em;
+	width: 100%;
+	height: 75%;
+}
+.daozi{
+	text-indent:0;
+}
+.kafei{
+	text-indent: 0;
+}
+.kongbai_hidden{
+	text-indent: 0;
+}
